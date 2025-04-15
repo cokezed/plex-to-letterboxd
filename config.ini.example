@@ -1,0 +1,12 @@
+[Plex]
+# Authentication method: 'direct' or 'account'
+auth_method = direct
+
+# For direct authentication
+baseurl = http://your-plex-server:32400
+token = your-plex-token
+
+# For account authentication
+#username = your-username
+#password = your-password
+#servername = your-server-name
